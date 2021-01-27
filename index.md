@@ -19,9 +19,10 @@ Aquí veremos las 5 escuderías de los coches más caros del mundo con sus respe
 Una vez ya hemos visto las escuderías, vamos a ver los **coches más caros del momento**.
 
 Haremos un top 5 de menor a mayor precio:
+
 (*Destacar que los precios aparecerán en dólares estadounidenses*)
 
-```markdown
+
 ### 5. Ferrari Pininfarina Sergio - $ 3 millones USD
 ![Imagen](https://wroom.ru/i/cars2/pininfarina_sergio_1.jpg)
 ### 4. Lamborghini Veneno - $ 4.5 millones USD
@@ -32,5 +33,5 @@ Haremos un top 5 de menor a mayor precio:
 ![Imagen](https://static.wixstatic.com/media/16ed66_ded59c82866d475f8cb034e2a74844a6~mv2.jpg/v1/fill/w_740,h_416,al_c,q_90,usm_0.66_1.00_0.01/16ed66_ded59c82866d475f8cb034e2a74844a6~mv2.webp)
 ### 1. Bugatti La Voiture Noire - $ 19 millones USD
 ![Imagen](https://static.wixstatic.com/media/16ed66_755fd26cf78b45c5a081ef8b7703cd18~mv2.jpg/v1/fill/w_740,h_372,al_c,q_90,usm_0.66_1.00_0.01/16ed66_755fd26cf78b45c5a081ef8b7703cd18~mv2.webp)
-```
+
 Para más detalles ver [Wiki TheBestCar](https://github.com/AntonioRodriguez2002/TestingWiki/wiki)
