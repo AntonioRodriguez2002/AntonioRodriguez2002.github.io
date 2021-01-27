@@ -1,26 +1,24 @@
-## Bienvenidos a TheBestCar
+# Bienvenidos a TheBestCar
 
 Os doy la bienvenida a mi página web TheBestCar en la cuál vamos a hablar sobre los coches más caros hoy en día.
 
-### Escuderías
+## Escuderías
 
 Aquí veremos las 5 escuderías de los coches más caros del mundo con sus respectivas páginas oficiales.
 
-```markdown
 1. [Bugatti](https://www.bugatti.com)
 2. [Rolls-Royce](https://www.rolls-roycemotorcars.com/en_GB/home.html)
 3. [Koenigsegg](https://www.koenigsegg.com)
 4. [Lamborghini](https://www.lamborghini.com/es-en)
 5. [Ferrari](https://www.ferrari.com/es-ES)
-```
 
-### Coches
+## Coches
 
-Una vez ya hemos visto las escuderías, vamos a ver los **coches más caros del momento**.
+Una vez ya hemos visto las escuderías, vamos a ver los coches más caros del momento.
 
 Haremos un top 5 de menor a mayor precio:
 
-(*Destacar que los precios aparecerán en dólares estadounidenses*)
+(**_Destacar que los precios aparecerán en dólares estadounidenses_**)
 
 
 ### 5. Ferrari Pininfarina Sergio - $ 3 millones USD
