@@ -1,6 +1,6 @@
 # Bienvenidos a TheBestCar
 
-Os doy la bienvenida a mi página web TheBestCar en la cuál vamos a hablar sobre los coches más caros hoy en día.
+Os doy la bienvenida a mi página web **TheBestCar** en la cuál vamos a hablar sobre los coches más caros hoy en día.
 
 ## Escuderías
 
